@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f4f4f9;
+}
+
+h2 {
+  color: #333;
+}
+
+.link-btn {
+  font-size: 20px;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Kamera va canvas ko‘rinmaydi */
+video, canvas {
+  display: none;
+}
